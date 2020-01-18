@@ -1,0 +1,44 @@
+form{
+    width:80%;
+    margin: 0 auto;
+    font-size: 0;
+}
+
+.column1{
+    width:50%;
+}
+
+.col-1{
+    width: 35%;
+    display: inline-block;
+    font-size: 14px;
+    margin: 5px 0;
+}
+.col-2{
+    width: 65%;
+    display: inline-block;
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+.city{
+    width:25%
+}
+.city + .city{
+    width:38%;
+}
+
+.mobile{
+    width:25%
+}
+.mobile + .mobile{
+     width:18%;
+ }
+
+.mobile + .mobile + .mobile{
+    width:18%;
+}
+
+input{
+    border-radius: 20px;
+}
