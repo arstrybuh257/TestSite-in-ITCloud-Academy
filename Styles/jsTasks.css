@@ -3,6 +3,8 @@
     flex-direction: column;
     width:600px;
     margin: 30px auto;
+    align-items: center;
+    justify-content: center;
 }
 
 .buttons button{
