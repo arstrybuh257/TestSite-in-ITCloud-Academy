@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    outline: none;
+}
+
+body{
+    color:#333;
+    background: #fff;
+    font-size: 1em;
+    font-family: "Segoe UI", sans-serif;
+    line-height: 135%;
+}
+
+.wrapper{
+    width: 1070px;
+    margin: 0 auto;
+}
+
+a{
+    color:#8b9ff5;
+    text-decoration: none;
+    transition: all.6s ease;
+}
+
+a:hover{
+    color: #2e48f5;
+    text-decoration: none;
+    transition: all.6s ease;
+}
+
+a:active{
+    color:#8ce4a6;
+}
+
+header{
+    border-bottom: 2px solid silver;
+    padding-top: 10px;
+}
+
+#logo{
+    font-size: 2em;
+    font-family: "Comic Sans MS", sans-serif;
+    color: #1b32f5;
+}
+
+.link{
+    font-size: 1.5em;
+    font-family: "Comic Sans MS", sans-serif;
+    margin-left: 20px;
+}

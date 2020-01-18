@@ -1,0 +1,28 @@
+/*Styles for task 2*/
+.task2{
+    margin-top: 30px;
+    display: inline-block;
+    width: 300px;
+    border:  solid 1px gray;
+    padding: 5px;
+}
+
+.res{
+    text-align: center;
+}
+
+.img{
+    text-align: center;
+}
+
+.but button{
+    background: green;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    font-size: 2em;
+    color: white;
+}
+.reset{
+
+}

@@ -1,24 +1,13 @@
-*{
-    margin:0;
-    padding:0;
-}
-
-body{
-    width:600px;
-    margin:0 auto;
-}
-
-/*Styles for task 1*/
 article{
     width:600px;
-    margin:0 auto;
+    margin:10px auto;
+    padding:10px 10px;
     border: 4px double black;
 }
 
 p{
     text-indent: 0.5em;
     text-align: justify;
-    font-size: 1em;
 }
 
 .section1{
@@ -27,7 +16,7 @@ p{
     margin-bottom: 10px;
 }
 
-.pushk{
+#firstWord{
     font-weight: bold;
     font-family: "Arial Black", sans-serif;
     color: #c82417;
@@ -37,8 +26,8 @@ p{
 .section2{
     font-family: "Tahoma", sans-serif;
     font-style: italic;
-
 }
+
 .section2 p{
     text-align: right;
     margin-top: 10px;
@@ -47,8 +36,8 @@ p{
 
 .section3{
     font-family: "Tahoma", sans-serif;
-
 }
+
 .section3 p{
     text-indent: 2em;
 }
@@ -61,33 +50,4 @@ p{
 
 .section4 p{
     text-indent: 1.2em;
-}
-
-/*Styles for task 2*/
-.task2{
-    margin-top: 30px;
-    display: inline-block;
-    width: 300px;
-    border:  solid 1px gray;
-    padding: 5px;
-}
-
-.res{
-    text-align: center;
-}
-
-.img{
-    text-align: center;
-}
-
-.but button{
-    background: green;
-    text-align: center;
-    height: 50px;
-    width: 100%;
-    font-size: 2em;
-    color: white;
-}
-.reset{
-
 }
