@@ -1,18 +1,29 @@
-/*Styles for task 2*/
-.task2{
-    margin-top: 30px;
+/*Styles for Section 1 */
+.section1{
+    text-align: center;
+}
+
+.in-jan{
     display: inline-block;
     width: 300px;
     border:  solid 1px gray;
     padding: 5px;
+    margin: 30px;
 }
 
 .res{
     text-align: center;
+    margin: 20px auto;
+    font-family:"Comic Sans MS", sans-serif;
+    font-size: 2em;
 }
 
 .img{
     text-align: center;
+}
+
+.img img{
+    width: 95%;
 }
 
 .but button{
@@ -23,6 +34,31 @@
     font-size: 2em;
     color: white;
 }
-.reset{
+
+/*Styles for Section 2*/
+.section2{
+    margin: 0 auto;
+}
+
+.block {
+    margin: 50px;
+    border: 4px solid green;
+    width: 500px;
+}
+
+.text{
+    display: inline-block;
+    width: 300px;
+    margin: 3px 3px;
+}
+.pineapple{
+    display: inline-block;
+    border: 1px solid black;
+
+}
+
+.pineapple img{
+    height: 100px;
+    width: 100px;
 
 }
